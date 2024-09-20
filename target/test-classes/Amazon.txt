@@ -3,3 +3,4 @@ SearchTerm=Laptops
 Index=2
 Price=₹65,990
 ₹65,990
+Price=₹65,990
