@@ -10,6 +10,7 @@ public class BasePage {
 
     protected WebDriver driver;
 //edited in main branch
+    // adding some text in 13th line
     public BasePage(WebDriver driver) {
         this.driver = driver;
     }
