@@ -9,7 +9,7 @@ import org.openqa.selenium.support.PageFactory;
 public class BasePage {
 
     protected WebDriver driver;
-
+//edited in main branch
     public BasePage(WebDriver driver) {
         this.driver = driver;
     }
