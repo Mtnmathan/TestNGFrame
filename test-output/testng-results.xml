@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-09-20T17:54:29 IST" name="Suite" finished-at="2024-09-20T17:54:42 IST" duration-ms="13213">
+  <suite started-at="2024-09-21T11:14:59 IST" name="Suite" finished-at="2024-09-21T11:15:14 IST" duration-ms="14821">
     <groups>
     </groups>
-    <test started-at="2024-09-20T17:54:29 IST" name="Test" finished-at="2024-09-20T17:54:42 IST" duration-ms="13213">
+    <test started-at="2024-09-21T11:14:59 IST" name="Test" finished-at="2024-09-21T11:15:14 IST" duration-ms="14821">
       <class name="tests.SearchAndDebugResult">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchAndDebugResult@6c40365c]" started-at="2024-09-20T17:54:29 IST" name="setUp" finished-at="2024-09-20T17:54:31 IST" duration-ms="1656" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchAndDebugResult@6c40365c]" started-at="2024-09-21T11:14:59 IST" name="setUp" finished-at="2024-09-21T11:15:02 IST" duration-ms="2639" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="setupPages()[pri:0, instance:tests.SearchAndDebugResult@6c40365c]" started-at="2024-09-20T17:54:31 IST" name="setupPages" finished-at="2024-09-20T17:54:32 IST" duration-ms="952" status="PASS">
+        <test-method is-config="true" signature="setupPages()[pri:0, instance:tests.SearchAndDebugResult@6c40365c]" started-at="2024-09-21T11:15:02 IST" name="setupPages" finished-at="2024-09-21T11:15:03 IST" duration-ms="929" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupPages -->
-        <test-method signature="testingUsingExcel()[pri:0, instance:tests.SearchAndDebugResult@6c40365c]" started-at="2024-09-20T17:54:32 IST" name="testingUsingExcel" finished-at="2024-09-20T17:54:37 IST" duration-ms="5878" status="PASS">
+        <test-method signature="testingUsingExcel()[pri:0, instance:tests.SearchAndDebugResult@6c40365c]" started-at="2024-09-21T11:15:03 IST" name="testingUsingExcel" finished-at="2024-09-21T11:15:09 IST" duration-ms="5887" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testingUsingExcel -->
-        <test-method is-config="true" signature="setupPages()[pri:0, instance:tests.SearchAndDebugResult@6c40365c]" started-at="2024-09-20T17:54:38 IST" name="setupPages" finished-at="2024-09-20T17:54:38 IST" duration-ms="84" status="PASS">
+        <test-method is-config="true" signature="setupPages()[pri:0, instance:tests.SearchAndDebugResult@6c40365c]" started-at="2024-09-21T11:15:09 IST" name="setupPages" finished-at="2024-09-21T11:15:09 IST" duration-ms="59" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupPages -->
-        <test-method signature="testingUsingTxtFile()[pri:0, instance:tests.SearchAndDebugResult@6c40365c]" started-at="2024-09-20T17:54:38 IST" name="testingUsingTxtFile" finished-at="2024-09-20T17:54:42 IST" duration-ms="3941" status="PASS">
+        <test-method signature="testingUsingTxtFile()[pri:0, instance:tests.SearchAndDebugResult@6c40365c]" started-at="2024-09-21T11:15:09 IST" name="testingUsingTxtFile" finished-at="2024-09-21T11:15:14 IST" duration-ms="4550" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testingUsingTxtFile -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchAndDebugResult@6c40365c]" started-at="2024-09-20T17:54:42 IST" name="tearDown" finished-at="2024-09-20T17:54:42 IST" duration-ms="260" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchAndDebugResult@6c40365c]" started-at="2024-09-21T11:15:14 IST" name="tearDown" finished-at="2024-09-21T11:15:14 IST" duration-ms="214" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
