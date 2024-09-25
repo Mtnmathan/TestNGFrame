@@ -9,7 +9,7 @@ import org.testng.annotations.BeforeClass;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseTest {
-
+//Adding just line to check the changes
 	    private WebDriver driver;
 
 		@BeforeClass
